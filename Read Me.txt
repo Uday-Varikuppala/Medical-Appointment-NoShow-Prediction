@@ -1,0 +1,9 @@
+The Project material contains:
+
+1. video walkthrough of explaining code and results. I made second video "Project Presentation video_results in detail.mkv" for better explaining the results. first video for code walkthrough.
+
+2. A copy of source code "My_Project_code.ipynb".
+
+3. A copy of dataset "medical-appointments-no-show-en.csv".
+
+4. additionally i have include plan of this project.
